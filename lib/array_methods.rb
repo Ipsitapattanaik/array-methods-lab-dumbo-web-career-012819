@@ -6,11 +6,11 @@ end
 def using_sort(array)
 array.sort
 end
-# 
+# takes in argument of an array and returns that same array with the contents reversed.
 def using_reverse(array)
 array.reverse
 end
-
+# 
 def using_first(array)
 array.first
 end
