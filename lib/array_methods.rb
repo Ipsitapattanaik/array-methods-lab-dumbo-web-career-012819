@@ -10,11 +10,11 @@ end
 def using_reverse(array)
 array.reverse
 end
-# 
+# takes in argument of an array and and returns the first element in the array
 def using_first(array)
 array.first
 end
-
+# 
 def using_last(array)
 array.last
 end
