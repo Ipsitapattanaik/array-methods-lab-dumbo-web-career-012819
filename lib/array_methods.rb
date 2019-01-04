@@ -18,7 +18,7 @@ end
 def using_last(array)
 array.last
 end
-#
+#  takes in argument of an array and and returns the size, or length, of the array
 def using_size(array)
 array.size
 end
