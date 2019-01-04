@@ -1,3 +1,4 @@
+# takes in arguments of an array and an element and returns true if the array includes that element, false if it does not.
 def using_include(array, element)
 array.include?(element)
 end
