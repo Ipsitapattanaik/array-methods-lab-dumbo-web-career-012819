@@ -2,11 +2,11 @@
 def using_include(array, element)
 array.include?(element)
 end
-
+# takes in an argument of an array and returns the sorted array.
 def using_sort(array)
 array.sort
 end
-
+# 
 def using_reverse(array)
 array.reverse
 end
